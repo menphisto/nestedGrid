@@ -1,0 +1,478 @@
+<string><NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Table" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="object" type="xs:string" minOccurs="0" />
+                <xs:element name="Date" type="xs:string" minOccurs="0" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="elmeterid" type="xs:string" minOccurs="0" />
+                <xs:element name="q" type="xs:decimal" minOccurs="0" />
+                <xs:element name="w" type="xs:decimal" minOccurs="0" />
+                <xs:element name="e" type="xs:decimal" minOccurs="0" />
+                <xs:element name="r" type="xs:decimal" minOccurs="0" />
+                <xs:element name="t" type="xs:decimal" minOccurs="0" />
+                <xs:element name="y" type="xs:decimal" minOccurs="0" />
+                <xs:element name="u" type="xs:decimal" minOccurs="0" />
+                <xs:element name="i" type="xs:decimal" minOccurs="0" />
+                <xs:element name="o" type="xs:decimal" minOccurs="0" />
+                <xs:element name="p" type="xs:decimal" minOccurs="0" />
+                <xs:element name="a" type="xs:decimal" minOccurs="0" />
+                <xs:element name="s" type="xs:decimal" minOccurs="0" />
+                <xs:element name="d" type="xs:decimal" minOccurs="0" />
+                <xs:element name="f" type="xs:decimal" minOccurs="0" />
+                <xs:element name="g" type="xs:decimal" minOccurs="0" />
+                <xs:element name="h" type="xs:decimal" minOccurs="0" />
+                <xs:element name="j" type="xs:decimal" minOccurs="0" />
+                <xs:element name="k" type="xs:decimal" minOccurs="0" />
+                <xs:element name="l" type="xs:decimal" minOccurs="0" />
+                <xs:element name="z" type="xs:decimal" minOccurs="0" />
+                <xs:element name="x" type="xs:decimal" minOccurs="0" />
+                <xs:element name="c" type="xs:decimal" minOccurs="0" />
+                <xs:element name="v" type="xs:decimal" minOccurs="0" />
+                <xs:element name="b" type="xs:decimal" minOccurs="0" />
+                <xs:element name="n" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>AEG Голям  генератор</Name>
+    <elmeterid>778237</elmeterid>
+    <q>0.6090</q>
+    <w>0.1070</w>
+    <e>0.3960</e>
+    <r>0.2930</r>
+    <t>0.0050</t>
+    <y>0.5300</y>
+    <u>0.4040</u>
+    <i>0.2520</i>
+    <o>0.0040</o>
+    <p>0.4050</p>
+    <a>0.5120</a>
+    <s>0.6830</s>
+    <d>0.6550</d>
+    <f>0.3950</f>
+    <g>0.5870</g>
+    <h>0.1440</h>
+    <n>5.9810</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>AEG Малък генератор</Name>
+    <elmeterid>595209</elmeterid>
+    <q>0.0014</q>
+    <w>0.0013</w>
+    <e>0.0012</e>
+    <r>0.0013</r>
+    <t>0.0012</t>
+    <y>0.0012</y>
+    <u>0.0013</u>
+    <i>0.0012</i>
+    <o>0.0012</o>
+    <p>0.0312</p>
+    <a>0.0203</a>
+    <s>0.0012</s>
+    <d>0.0195</d>
+    <f>0.0270</f>
+    <g>0.0012</g>
+    <n>0.1117</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>I ИП</Name>
+    <elmeterid>778244</elmeterid>
+    <q>0.7989</q>
+    <w>0.0000</w>
+    <e>0.5334</e>
+    <r>0.1599</r>
+    <t>0.2034</t>
+    <y>0.4479</y>
+    <u>0.7224</u>
+    <i>0.8694</i>
+    <o>0.9451</o>
+    <p>0.8979</p>
+    <a>0.2004</a>
+    <s>0.3451</s>
+    <d>0.5768</d>
+    <f>0.7951</f>
+    <g>0.8634</g>
+    <h>0.2498</h>
+    <n>8.6089</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>II ИП</Name>
+    <elmeterid>778250</elmeterid>
+    <q>0.3264</q>
+    <w>0.4193</w>
+    <e>0.4726</e>
+    <r>0.7487</r>
+    <t>0.6324</t>
+    <y>0.5116</y>
+    <u>0.6593</u>
+    <i>0.7845</i>
+    <o>0.5454</o>
+    <p>0.5679</p>
+    <a>0.0968</a>
+    <s>0.0008</s>
+    <d>0.2746</d>
+    <f>0.3241</f>
+    <g>0.2109</g>
+    <h>0.1778</h>
+    <n>6.7531</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>IV ИП</Name>
+    <elmeterid>778251</elmeterid>
+    <q>0.1403</q>
+    <w>0.6226</w>
+    <e>0.7667</e>
+    <r>0.8131</r>
+    <t>0.9818</t>
+    <y>0.9414</y>
+    <u>0.1005</u>
+    <i>0.3773</i>
+    <o>0.0916</o>
+    <p>0.0608</p>
+    <a>0.9939</a>
+    <s>0.8918</s>
+    <d>1.0126</d>
+    <f>0.9932</f>
+    <g>0.2595</g>
+    <h>0.0000</h>
+    <n>9.0471</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>АВР 1</Name>
+    <elmeterid>3020436</elmeterid>
+    <q>0.4840</q>
+    <w>0.1740</w>
+    <e>0.1320</e>
+    <r>1.0620</r>
+    <t>1.0720</t>
+    <y>0.7220</y>
+    <u>0.7020</u>
+    <i>0.3520</i>
+    <o>0.1280</o>
+    <p>0.1240</p>
+    <a>1.0640</a>
+    <s>1.1820</s>
+    <d>1.4060</d>
+    <f>0.1840</f>
+    <g>0.3140</g>
+    <h>0.0360</h>
+    <n>9.1380</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>АВР 2</Name>
+    <elmeterid>778263</elmeterid>
+    <q>0.7920</q>
+    <w>1.3060</w>
+    <e>0.4400</e>
+    <r>0.0540</r>
+    <t>0.2380</t>
+    <y>0.2760</y>
+    <u>0.1320</u>
+    <i>0.7520</i>
+    <o>0.6800</o>
+    <p>1.1880</p>
+    <a>1.0360</a>
+    <s>0.2280</s>
+    <d>0.1580</d>
+    <f>0.6220</f>
+    <g>1.0520</g>
+    <n>8.9540</n>
+  </Table>
+  <Table>
+    <object>113</object>
+    <Date>2014-12-10</Date>
+    <Name>Вход Въглерод</Name>
+    <elmeterid>650629</elmeterid>
+    <q>2.2060</q>
+    <w>2.3860</w>
+    <e>2.1580</e>
+    <r>1.3900</r>
+    <t>1.8300</t>
+    <y>2.3360</y>
+    <u>1.7500</u>
+    <i>3.0820</i>
+    <o>2.8420</o>
+    <p>3.3180</p>
+    <a>3.3900</a>
+    <s>2.4820</s>
+    <d>2.8180</d>
+    <f>3.4620</f>
+    <g>3.2240</g>
+    <h>0.6000</h>
+    <n>39.2740</n>
+  </Table>
+  <Table>
+    <object>113</object>
+    <Date>2014-12-10</Date>
+    <Name>Извод Чугун </Name>
+    <elmeterid>650636</elmeterid>
+    <q>1.7100</q>
+    <w>0.9840</w>
+    <e>1.2400</e>
+    <r>2.4260</r>
+    <t>2.0080</t>
+    <y>2.1000</y>
+    <u>2.0720</u>
+    <i>1.7620</i>
+    <o>1.1760</o>
+    <p>1.5680</p>
+    <a>2.1780</a>
+    <s>2.2380</s>
+    <d>2.7740</d>
+    <f>1.2920</f>
+    <g>1.5720</g>
+    <n>27.1000</n>
+  </Table>
+  <Table>
+    <object>98</object>
+    <Date>2014-12-10</Date>
+    <Name>ИП ВВС</Name>
+    <elmeterid>778255</elmeterid>
+    <q>0.0015</q>
+    <w>0.0010</w>
+    <e>0.0010</e>
+    <r>0.0010</r>
+    <t>0.0015</t>
+    <y>0.0010</y>
+    <u>0.0010</u>
+    <i>0.0015</i>
+    <o>0.0010</o>
+    <p>0.0010</p>
+    <a>0.0010</a>
+    <s>0.0010</s>
+    <d>0.0015</d>
+    <f>0.0010</f>
+    <g>0.0010</g>
+    <h>0.0005</h>
+    <n>0.0175</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 1</Name>
+    <elmeterid>778252</elmeterid>
+    <q>0.1251</q>
+    <w>0.1098</w>
+    <e>0.0672</e>
+    <r>0.0360</r>
+    <t>0.0495</t>
+    <y>0.2640</y>
+    <u>0.3453</u>
+    <i>0.4803</i>
+    <o>0.4569</o>
+    <p>0.4674</p>
+    <a>0.4554</a>
+    <s>0.3918</s>
+    <d>0.4776</d>
+    <f>0.4383</f>
+    <g>0.4146</g>
+    <h>0.1029</h>
+    <n>4.6821</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 11</Name>
+    <elmeterid>778238</elmeterid>
+    <q>0.0060</q>
+    <w>0.0060</w>
+    <e>0.0060</e>
+    <r>0.0060</r>
+    <t>0.0057</t>
+    <y>0.0060</y>
+    <u>0.0057</u>
+    <i>0.0075</i>
+    <o>0.0087</o>
+    <p>0.0132</p>
+    <a>0.0147</a>
+    <s>0.0105</s>
+    <d>0.0063</d>
+    <f>0.0081</f>
+    <g>0.0081</g>
+    <h>0.0021</h>
+    <n>0.1206</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 12</Name>
+    <elmeterid>778243</elmeterid>
+    <q>0.1821</q>
+    <w>0.1776</w>
+    <e>0.1821</e>
+    <r>0.1623</r>
+    <t>0.1803</t>
+    <y>0.1770</y>
+    <u>0.1791</u>
+    <i>0.1785</i>
+    <o>0.1755</o>
+    <p>0.2232</p>
+    <a>0.2157</a>
+    <s>0.1902</s>
+    <d>0.2085</d>
+    <f>0.2184</f>
+    <g>0.1809</g>
+    <h>0.0420</h>
+    <n>2.8734</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 2</Name>
+    <elmeterid>778254</elmeterid>
+    <q>0.0000</q>
+    <w>0.0000</w>
+    <e>0.0000</e>
+    <r>0.0000</r>
+    <t>0.0000</t>
+    <y>0.0000</y>
+    <u>0.0000</u>
+    <i>0.0000</i>
+    <o>0.0000</o>
+    <p>0.0000</p>
+    <a>0.0000</a>
+    <s>0.0000</s>
+    <d>0.0000</d>
+    <f>0.0000</f>
+    <g>0.0000</g>
+    <h>0.0000</h>
+    <n>0.0000</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 3</Name>
+    <elmeterid>650626</elmeterid>
+    <q>0.0960</q>
+    <w>0.0966</w>
+    <e>0.0951</e>
+    <r>0.0903</r>
+    <t>0.0996</t>
+    <y>0.1173</y>
+    <u>0.1251</u>
+    <i>0.2367</i>
+    <o>0.2835</o>
+    <p>0.2733</p>
+    <a>0.2970</a>
+    <s>0.2538</s>
+    <d>0.2121</d>
+    <f>0.2286</f>
+    <g>0.2763</g>
+    <n>2.7813</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 4</Name>
+    <elmeterid>778245</elmeterid>
+    <q>0.1194</q>
+    <w>0.1194</w>
+    <e>0.1203</e>
+    <r>0.1149</r>
+    <t>0.1185</t>
+    <y>0.1188</y>
+    <u>0.1197</u>
+    <i>0.1410</i>
+    <o>0.1683</o>
+    <p>0.1659</p>
+    <a>0.1581</a>
+    <s>0.1329</s>
+    <d>0.1500</d>
+    <f>0.1443</f>
+    <g>0.1455</g>
+    <h>0.0417</h>
+    <n>2.0787</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 5</Name>
+    <elmeterid>778253</elmeterid>
+    <q>0.0270</q>
+    <w>0.0270</w>
+    <e>0.0267</e>
+    <r>0.0288</r>
+    <t>0.0357</t>
+    <y>0.0402</y>
+    <u>0.0447</u>
+    <i>0.0684</i>
+    <o>0.1215</o>
+    <p>0.1068</p>
+    <a>0.1059</a>
+    <s>0.0693</s>
+    <d>0.0732</d>
+    <f>0.0780</f>
+    <g>0.0765</g>
+    <h>0.0162</h>
+    <n>0.9459</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 6</Name>
+    <elmeterid>778256</elmeterid>
+    <q>0.0615</q>
+    <w>0.0605</w>
+    <e>0.0625</e>
+    <r>0.0585</r>
+    <t>0.0635</t>
+    <y>0.1060</y>
+    <u>0.1310</u>
+    <i>0.1795</i>
+    <o>0.1955</o>
+    <p>0.1880</p>
+    <a>0.1655</a>
+    <s>0.1645</s>
+    <d>0.1605</d>
+    <f>0.1545</f>
+    <g>0.1665</g>
+    <h>0.0420</h>
+    <n>1.9600</n>
+  </Table>
+  <Table>
+    <object>99</object>
+    <Date>2014-12-10</Date>
+    <Name>ТП 7</Name>
+    <elmeterid>778239</elmeterid>
+    <q>0.0910</q>
+    <w>0.0845</w>
+    <e>0.0890</e>
+    <r>0.0850</r>
+    <t>0.0885</t>
+    <y>0.1020</y>
+    <u>0.0995</u>
+    <i>0.1240</i>
+    <o>0.1540</o>
+    <p>0.1535</p>
+    <a>0.1515</a>
+    <s>0.1465</s>
+    <d>0.1370</d>
+    <f>0.1315</f>
+    <g>0.1530</g>
+    <h>0.0380</h>
+    <n>1.8285</n>
+  </Table>
+</NewDataSet></string>
